@@ -1,0 +1,10 @@
+:root {
+  font-family: sans-serif;
+}
+
+li {
+  max-width: 60rem;
+}
+img {
+  max-width: 100%;
+}
